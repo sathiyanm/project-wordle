@@ -1,5 +1,5 @@
 export const WORDS = [
-  'AGENT',
+  'APPLE',
   'WORLD',
   'ABOUT',
   'HEART',
